@@ -1,4 +1,4 @@
-# S4-project
+# The project
 This project is a instant chat developed in C99 with an end-to-end encryption system. We have reimplemented the AES encryption system.
 
 
